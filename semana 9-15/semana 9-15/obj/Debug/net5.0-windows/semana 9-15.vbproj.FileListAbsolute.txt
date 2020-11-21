@@ -1,0 +1,19 @@
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\bin\Debug\net5.0-windows\semana 9-15.exe
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\bin\Debug\net5.0-windows\semana 9-15.deps.json
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\bin\Debug\net5.0-windows\semana 9-15.runtimeconfig.json
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\bin\Debug\net5.0-windows\semana 9-15.runtimeconfig.dev.json
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\bin\Debug\net5.0-windows\semana 9-15.dll
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\bin\Debug\net5.0-windows\ref\semana 9-15.dll
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\bin\Debug\net5.0-windows\semana 9-15.pdb
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\semana 9-15.vbprojAssemblyReference.cache
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\semana_9_15.Form1.resources
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\semana 9-15.vbproj.GenerateResource.cache
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\semana 9-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\semana 9-15.AssemblyInfoInputs.cache
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\semana 9-15.AssemblyInfo.vb
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\semana 9-15.vbproj.CoreCompileInputs.cache
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\semana 9-15.dll
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\ref\semana 9-15.dll
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\semana 9-15.pdb
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\semana 9-15.genruntimeconfig.cache
+C:\Users\nelso\source\repos\semana 9-15\semana 9-15\obj\Debug\net5.0-windows\semana_9_15.Resources.resources
